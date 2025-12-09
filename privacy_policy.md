@@ -22,18 +22,7 @@
 <p>Easy Health Sync accesses and processes the following health data through Huawei Health Kit and Google Health Connect:</p>
 <ul>
     <li><strong>Step Count:</strong> Daily step counts and walking/running activity</li>
-    <li><strong>Heart Rate:</strong> Heart rate measurements</li>
-    <li><strong>Weight:</strong> Body weight measurements</li>
-    <li><strong>Distance:</strong> Distance traveled during activities</li>
-    <li><strong>Calories:</strong> Calories burned during activities</li>
-    <li><strong>Exercise Sessions:</strong> Workout and activity session data</li>
-    <li><strong>Sleep Data:</strong> Sleep duration and quality information</li>
-    <li><strong>Blood Pressure:</strong> Blood pressure readings</li>
-    <li><strong>Blood Glucose:</strong> Blood glucose level measurements</li>
-    <li><strong>Oxygen Saturation (SpO2):</strong> Blood oxygen level readings</li>
-    <li><strong>Body Temperature:</strong> Body temperature measurements</li>
-    <li><strong>Body Fat Percentage:</strong> Body composition data</li>
-    <li><strong>Nutrition:</strong> Dietary and nutrition information</li>
+    <li><strong>Exercise Sessions:</strong> Workout and activity session detailled data</li>
 </ul>
 
 <h3>Technical Data</h3>
